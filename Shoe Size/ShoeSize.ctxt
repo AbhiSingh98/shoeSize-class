@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=usersize\ userfootwidth
+comment0.target=ShoeSize(int,\ int)
+comment1.params=
+comment1.target=void\ UserShoesize()
+comment1.text=\r\n\ This\ function\ prints\ out\ the\ users\ foot\ size\ and\ foot\ width.\r\n\ System.out.println("\ foot"\ )-\ will\ print\ foot\r\n
+numComments=2
